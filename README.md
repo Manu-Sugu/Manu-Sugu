@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Manu-Sugu
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning c#, java web development, java script client side services, aws, and cobol.
+- 💞️ I’m looking to collaborate on anything.
+- 📫 How to reach me manu.sugunakumar@outlook.com. I frequently check my emails so feel free to leave one.
+- ⚡ Fun fact: I love playing games.
